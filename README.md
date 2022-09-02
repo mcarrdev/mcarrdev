@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcarrdev
 - 👀 I’m interested in becoming a full stack dev
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning JavaScript before I apply for bootcamp!
 - 💞️ I’m looking to collaborate on cms sites
 - 📫 How to reach me - send me a message on github for now
 
